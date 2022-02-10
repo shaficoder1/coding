@@ -1,0 +1,12 @@
+#pass or fail
+Sno=int (input('Enter student no :')) 
+Sname=input('Enter student name :1)) 
+Sgroup=input('Enter student group :')) 
+S1=int (input ('accounts marks'))
+S2=int (input ('chemistry marks'))
+S3=int (input ('computer marks'))
+If S1>35 and S2>35 and S3>35:
+Print ('pass') 
+#True block statement Else
+Print ('fail') 
+#False block statement
