@@ -1,0 +1,6 @@
+num n1=int(input(enter a number)
+if 
+n1>=0
+print ("positive")
+else
+print ( "negative"
